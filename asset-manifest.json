@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/ipl-auction/static/css/main.c3c4c71d.css",
-    "main.js": "/ipl-auction/static/js/main.f3613e78.js",
+    "main.js": "/ipl-auction/static/js/main.9b7bac6b.js",
     "static/js/453.f26bbc64.chunk.js": "/ipl-auction/static/js/453.f26bbc64.chunk.js",
     "index.html": "/ipl-auction/index.html",
     "main.c3c4c71d.css.map": "/ipl-auction/static/css/main.c3c4c71d.css.map",
-    "main.f3613e78.js.map": "/ipl-auction/static/js/main.f3613e78.js.map",
+    "main.9b7bac6b.js.map": "/ipl-auction/static/js/main.9b7bac6b.js.map",
     "453.f26bbc64.chunk.js.map": "/ipl-auction/static/js/453.f26bbc64.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c3c4c71d.css",
-    "static/js/main.f3613e78.js"
+    "static/js/main.9b7bac6b.js"
   ]
 }
